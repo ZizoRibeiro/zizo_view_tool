@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ZizoViewTool::Renderer.copyright 'Zizo Ribeiro', 'All rights reserved'
+```
 
 ## Development
 
